@@ -13,5 +13,5 @@ deploy the spring cloud micro-services to kubernetes
 3. kubectl apply -f kubernetes.yml 
 
 # gatling test
-同样也是通过maven gatling 插件来完成，可以很好的和CICD集成。
+Testing is done with the Maven Gatling plugin, which is well integrated with CICD.
 1. mvn  gatling:test

@@ -1,1 +1,0 @@
-# springmvc-monolithic-application
