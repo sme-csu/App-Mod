@@ -1,3 +1,0 @@
-# springmvc-monolithic-application
-
-Spring MVC is the framework Spring provides for Web applications. Spring MVC is a typical textbook MVC architecture, unlike Struts and other frameworks that are variants or not entirely based on MVC systems. Because its roles are clearly delineated, the division of labour is detailed, and it integrates seamlessly with the Spring framework. As the most mainstream Web development framework in the industry, Spring MVC has become one of the hottest development skills and is widely used in desktop development.
