@@ -18,6 +18,10 @@ Cloud native applications are built from the ground up—optimized for cloud sca
 
   https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Sep.11%20Resilience%20design%20for%20Azure%20cloud%20native%20application/Recording.url
 
+- SME Sharing PowerPoint:
+
+  https://microsoftapc.sharepoint.com/:p:/t/PRCCSU/Eb9dKvwSMCVOmxMyHVHgvZQBs8SnfErVlYtiBNpyEnoU8w?e=yGCuUa
+
 ### 2 Performance design for Azure cloud native application
 
 Build your cloud-native apps with Azure fully managed services, seamlessly integrated development tools, and built-in, enterprise-grade security. Use the tools and technologies of your choice, while implementing a microservices-based, cloud-native architecture that makes it easier to develop and scale your applications.
@@ -25,6 +29,10 @@ Build your cloud-native apps with Azure fully managed services, seamlessly integ
 - SME Sharing Recording: 
 
   https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Nov.6%20Cosmos%20DB%20migration/Recording.url
+
+- SME Sharing PowerPoint:
+
+  https://microsoftapc.sharepoint.com/:p:/t/PRCCSU/EeUzRKzgKfNAh8WFb3Fypi0Bi3Mox7XyBNoUOYFgbnfmZg?e=eEKeCM
 
 ## 2 SME-CSU Team App-Mod Project Assets
 
