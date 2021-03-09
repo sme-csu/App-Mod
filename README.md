@@ -18,7 +18,7 @@ Cloud native applications are built from the ground up—optimized for cloud sca
 
   https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Sep.11%20Resilience%20design%20for%20Azure%20cloud%20native%20application/Recording.url
 
-### 2 Methodology of migration an app to Azure
+### 2 Performance design for Azure cloud native application
 
 Build your cloud-native apps with Azure fully managed services, seamlessly integrated development tools, and built-in, enterprise-grade security. Use the tools and technologies of your choice, while implementing a microservices-based, cloud-native architecture that makes it easier to develop and scale your applications.
 
