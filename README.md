@@ -16,7 +16,7 @@ Cloud native applications are built from the ground up—optimized for cloud sca
 
 - SME Sharing Recording: 
 
-  https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Sep.11%20Resilience%20design%20for%20Azure%20cloud%20native%20application/Recording.url
+  https://msit.microsoftstream.com/video/8855a1ff-0400-96f4-2d84-f1eaf409b673
 
 - SME Sharing PowerPoint:
 
@@ -28,7 +28,7 @@ Build your cloud-native apps with Azure fully managed services, seamlessly integ
 
 - SME Sharing Recording: 
 
-  https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Nov.6%20Cosmos%20DB%20migration/Recording.url
+  https://msit.microsoftstream.com/video/7317a1ff-0400-9fb2-ff4f-f1eb200ab68a
 
 - SME Sharing PowerPoint:
 
