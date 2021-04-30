@@ -34,6 +34,17 @@ Build your cloud-native apps with Azure fully managed services, seamlessly integ
 
   https://microsoftapc.sharepoint.com/:p:/t/PRCCSU/EeUzRKzgKfNAh8WFb3Fypi0Bi3Mox7XyBNoUOYFgbnfmZg?e=eEKeCM
 
+### 3 AKS Security Best Practice: Integrating with Landing zone and AAD, using kubernetes RBAC how to build the best security context for AKS？
+
+- SME Sharing Recording: 
+
+  https://web.microsoftstream.com/video/5fdd0840-98dc-94b1-5871-f1eb9e8ca7a2
+  https://web.microsoftstream.com/video/e1940840-98dc-94b1-62ed-f1eb9e873028
+
+- SME Sharing PowerPoint:
+
+  https://microsoftapc.sharepoint.com/:p:/t/PRCCSU/EeRsNQwp5uZFvVazO3CzHosBiWZywYIr5qnwLi4N6zBGFA?e=KxyRhg
+
 ## 2 SME-CSU Team App-Mod Project Assets
 
 Project Asset is the knowledge library of representative project experience in corresponding technical field. You can find reference and guidance here for different types of technical requirement. Each folder listed is collected from one project.
